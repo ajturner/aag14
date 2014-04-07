@@ -19,6 +19,7 @@ April 7 (Monday), 2014, Tampa FL.
 ## (10:15-11:45) Technical and implementation issues
 
 - Lead: [Andrew Turner](http://highearthorbit.com) and [Chaowei Yang](http://cpgis.gmu.edu/homepage/) (Overview talks, 10 min each)
+  - [Andrew Presentation](http://ajturner.github.io/presentations/aag2014/)
 - Lightning talks (10 min each)
 	- [Carson Farmer](http://www.carsonfarmer.com/)
 	- [Michael Finn](https://profile.usgs.gov/mfinn)
